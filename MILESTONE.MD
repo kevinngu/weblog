@@ -17,12 +17,13 @@
 
 ***June 13, 2018***
 
-- react-bootstrap(just the same as bootstrap) grid, look into the pull/push/offset because of the company project
+- react-bootstrap(use bootstrap v3), try grid, look into the pull/push/offset because of the company project
 
 ***June 14, 2018***
 
 - css3 media, for the responsive things and found it hard to perfect adjudgment the items/icons style.
 - do not use responsive, if many events/user interaction in the page. means not necessary to do that.
 
+***June 15, 2018***
 
-
+- try reactstrap, which is use bootstrap v4, seems provide many new things to fix the responsive problem, but i am wondering why media can not override when the screen size change.
