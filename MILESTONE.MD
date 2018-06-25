@@ -27,3 +27,11 @@
 ***June 15, 2018***
 
 - try reactstrap, which is use bootstrap v4, seems provide many new things to fix the responsive problem, but i am wondering why media can not override when the screen size change.
+
+***June 20, 2018***
+
+- react-leaflet kickstart, found a useful tool "redux-dev-tool" to monitor the redux
+
+***June 24, 2018***
+
+- javascript modularization again and ECMAScript6
