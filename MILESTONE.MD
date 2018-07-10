@@ -35,3 +35,11 @@
 ***June 24, 2018***
 
 - javascript modularization again and ECMAScript6
+
+***July 09, 2018***
+
+- spring secruity preliminary understanding
+- restudy restful api concept
+- actually i want to know deeply about front/back-end seperation and communication mechanism
+- [@阮一峰的网络日志]（http://www.ruanyifeng.com/blog/2014/05/restful_api.html?bsh_bid=516759003) ,（http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html）
+
